@@ -446,6 +446,10 @@ a {
     right: 0;
   }
 
+  #logo img {
+    display:none!important;
+  }
+
   :hover #toolbar {
     opacity: 1;
   }
@@ -920,6 +924,10 @@ a {
   a {
     text-decoration: none;
   }
+}
+
+#logo img {
+  display:none!important;
 }
 
 #select-editor {
